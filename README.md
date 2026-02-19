@@ -1,4 +1,6 @@
 # ollama-claude-code-free
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Run Anthropic's Claude Code CLI for free using Ollama + local models (qwen2.5-coder, glm-4.7, devstral, etc.). Full offline coding agent write, edit, test, debug code directly in your terminal. No API keys, no subscription.
 # Ollama + Claude Code: Free & Local Coding Agent
 
